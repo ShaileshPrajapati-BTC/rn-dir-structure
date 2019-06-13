@@ -1,0 +1,3 @@
+rootProject.name = 'asset_tracker'
+
+include ':app'
